@@ -5,6 +5,7 @@
  * all-emojis-1k.zip is the original zip file
  * all-emojis-1k/ is its contents
  * 1000px/ and 128px/ contain the files renamed without the emoji- prefix or -128 suffix
+ * finland.yaml can be used for bulk uploading to Slack using something like [emojipacks](https://github.com/lambtron/emojipacks)
 
 http://xmas.finland.fi/about-this-site/
 
