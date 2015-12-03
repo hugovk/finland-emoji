@@ -1,6 +1,6 @@
 # finland-emoji
 
- ![The emoji in Slack](slack.png)
+ ![The emoji in Slack](images/slack.png)
 
  * all-emojis-1k.zip is the original zip file
  * all-emojis-1k/ is its contents
@@ -15,4 +15,4 @@ http://xmas.finland.fi/about-this-site/
 
 > You can use and share the unmodified images freely for non-commercial use.
 
-> [![CC BY-NC-ND](cc-by-nc-nd.png)](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.en)
+> [![CC BY-NC-ND](images/cc-by-nc-nd.png)](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.en)
