@@ -4,7 +4,7 @@
 
  * originals/all-emojis-1k.zip is the original Christmas 2015 emoji zip file
  * originals/all-emojis-1k/ is its contents
- * originals/finland-emojis.zip is the original May 2016 emoji zip file
+ * originals/finland-emojis.zip is the original June 2017 emoji zip file
  * originals/finland-emojis/ is its contents
  * 1000px/ and 128px/ contain the files renamed without the emoji- prefix or -128 suffix
  * finland.yaml can be used for bulk uploading to Slack using something like [emojipacks](https://github.com/lambtron/emojipacks)
