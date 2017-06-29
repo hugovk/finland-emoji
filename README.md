@@ -8,6 +8,7 @@
  * originals/finland-emojis/ is its contents
  * 1000px/ and 128px/ contain the files renamed without the emoji- prefix or -128 suffix
  * finland.yaml can be used for bulk uploading to Slack using something like [emojipacks](https://github.com/lambtron/emojipacks)
+ * [index.html](https://hugovk.github.io/finland-emoji/) to see all the emoji
 
 
 
